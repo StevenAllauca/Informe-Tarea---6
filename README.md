@@ -166,9 +166,84 @@ Corriente-Tiempo
 
 ![image](https://user-images.githubusercontent.com/94026628/149455543-35d04bb0-9bdc-4866-a252-a211c4e82a2b.png)
 
-lucero
+SECCIÓN 11–9 Formas de onda no sinusoidales
+
+33.- Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud.
+
+![image](https://user-images.githubusercontent.com/94026628/149536936-9e9f43e6-edcd-4cda-8ca4-a4de8d8cec27.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149537527-b93e509c-3df8-4d50-93f3-7e1b1c09e4d9.png)
+
+35.- Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85.
+![image](https://user-images.githubusercontent.com/94026628/149537778-b20499a4-e128-4eaf-84dd-f857ca271247.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149537817-f531bc24-7402-4146-93f5-375349ad59e4.png)
+
+37.- Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
+
+![image](https://user-images.githubusercontent.com/94026628/149537880-8556cde3-60ec-42cb-877b-78b23fbf1ab1.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149537918-96e27728-e6e3-48e1-884f-6f3540705c9e.png)
+
+39.- ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
+![image](https://user-images.githubusercontent.com/94026628/149537961-d7296150-f21d-47ea-9d1c-1c5713d33d26.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149537989-caf476ff-02db-4bcd-b187-d8a794912e1b.png)
+
+41.- El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
+
+![image](https://user-images.githubusercontent.com/94026628/149538032-964e2a3b-c837-4d45-accb-ecbdc03d393a.png)
+
+43.- Determine el valor pico y el periodo para la onda seno mostrado en la pantalla del osciloscopio de la figura 11-89.
+
+![image](https://user-images.githubusercontent.com/94026628/149538075-ad379d83-8dc4-4b3b-85a2-d0065bb83d1e.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149538119-9ac0343f-15e4-477c-bba7-030540bc9255.png)
+
+*45.- Examine la tarjeta prototipo y la pantalla del osciloscopio mostrada en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
+
+![image](https://user-images.githubusercontent.com/94026628/149538144-5cb91e07-2357-4b70-b825-887071f58894.png)
+
+![image](https://user-images.githubusercontent.com/94026628/149538662-1a965441-ff88-48d4-bc3f-2837adee0588.png)
+
 
 Ejercicios Capítulo 12
+
+SECCIÓN 12–1 El condensador básico
+
+1.- (a) Encuentre la capacitancia cuando Q = 50 mC y V = 10 V.
+
+(b) Determine la carga cuando C = 0.001 mF y V = 1 kV.
+
+(c) Determine el voltaje cuando Q = 2 mC y C = 200 mF.
+
+![image](https://user-images.githubusercontent.com/94026628/149538808-aad19e0b-2ce2-4cec-85de-074b0c8ddddf.png)
+
+3.- Transformar los siguientes valores de picofaradios a microfaradios:
+
+(a) 1000 pF (b) 3500 pF (c) 250 pF
+
+![image](https://user-images.githubusercontent.com/94026628/149538859-f5d1072c-eebc-4958-aaf7-83abf18bc83a.png)
+
+5.- ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/94026628/149539192-9b11d8b0-2e39-4902-89a6-8215fc7cf5e8.png)
+
+7.- Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de er.
+
+(a) aire (b) aceite (c) vidrio (d) teflón
+
+a: e = e0.er , si e0 es 8.85 x 10^-12 F/m e = 8.85 x 10^-12 (1.0) = 8.85 x 10^-12 F/m
+
+b: e = 8,85 x 10^-12 (4,0) = 3,54 x 10^-11 F/m
+
+c: e = 8,85 x 10^-12 (7,5) = 6,637 x 10^-11 F/m
+
+d: e = 8,85 x 10^-12 (2,0) = 1,77 x 10^-11 F/m
+
+9.- Un condensador de aire tiene un área de placas total de 0,05 m2. La separación entre las placas es de 4,5 x 10^-4 m. Calcule la capacitancia.
+
+![image](https://user-images.githubusercontent.com/94026628/149539281-381e409d-072a-4c90-b505-63a43fe51d79.png)
 
 11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (er =2.5) de 8 x10-5 de espesor. ¿Cuál es la capacitancia de su capacitor?
 
