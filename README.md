@@ -260,7 +260,7 @@ Ejercicios Capítulo 12
 
 ![image](https://user-images.githubusercontent.com/94026628/149456491-3a30c061-f29d-442d-81d4-f7c4e6ac8656.png)
 
-4.Video:
+4.Video: https://youtu.be/EBYtW6nADug 
 
 5.Conclusiones:
 
